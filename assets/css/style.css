@@ -1,0 +1,24 @@
+h1{
+    font-family: 
+    'Franklin Gothic Medium',
+     'Arial Narrow',
+      Arial, 
+      sans-serif;
+}
+
+ .mark{
+    background-color: green;
+    color: white;
+ }
+ #bill{
+    background-color: black;
+    color: red;
+ }
+
+ table{
+    border-collapse: collapse;
+    width: 100%;
+ }
+ td{
+    border: 1px solid #f0ba1c;
+ }
